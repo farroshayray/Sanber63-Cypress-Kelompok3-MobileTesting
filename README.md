@@ -20,15 +20,16 @@ password: abc123 <br>
 static booking ID for search: DA935 <br>
 
 ## 📁 Project Structure
+<span style="color:red">(output video should be in results folder)</span>
 ```
 └── 📁Sanber63-Cypress-Kelompok3-MobileTesting
-
     └── 📁.venv
     └── 📁resources
-    └── 📁results
+    └── 📁results 
         └── log.html
         └── output.xml
         └── report.html
+        └── 🔴 (output video should be here)
     └── 📁suites
         └── example_test.robot
     └── README.md
