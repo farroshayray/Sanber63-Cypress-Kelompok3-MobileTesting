@@ -2,6 +2,23 @@
 
 # Project Setup for Sanber63-Cypress-Kelompok3-MobileTesting
 
+## Anggota Kelompok & Roles
+
+
+| Nama                      | username github       | Test yang dilakukan                    |
+|---------------------------|-----------------------|----------------------------------------|
+| **Qonita Lutfia**         | `qonitalutfia`      | Positive Search & sign out               |
+| **Novazira A.F**          | `novaziraa`         | Negative sign in                         |
+| **Fadly Mahendra**        | `fadlymahendra`     | Negative Search                          |
+| **Reza Hammed Tri Wibowo**| `rezahamedtriwibowo`| Negative sign out                        |
+| **Samuel Allhert**        | `Toxine1157`        | Negative Book Flight                     |
+| **Farros H.R**            | `farroshayray`      | Positive sign in & positive Book Flight  |
+
+## Data Test
+username: support@ngendigital.com <br>
+password: abc123 <br>
+static booking ID for search: DA935 <br>
+
 ## 📁 Project Structure
 ```
 └── 📁Sanber63-Cypress-Kelompok3-MobileTesting
